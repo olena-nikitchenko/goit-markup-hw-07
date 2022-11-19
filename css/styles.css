@@ -578,13 +578,13 @@
   letter-spacing: 0.03em;
   color: var(--white-text-bg);
   background-color: rgba(33, 150, 243, 0.9);
-  opacity: 0;
+  /* opacity: 0; */
   transform: translateY(100%);
   transition: transform 250ms var(--timing-function), opacity 250ms var(--timing-function);
 }
 .product__link:hover .product__overlay {
   transform: translateY(0);
-  opacity: 1;
+  /* opacity: 1; */
 }
 
 .product__element {
