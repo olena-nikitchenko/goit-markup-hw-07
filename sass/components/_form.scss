@@ -79,6 +79,7 @@
   color: inherit;
   &__link {
     text-decoration-line: underline;
+    text-underline-position: under;
     color: var(--accent-color);
   }
   &__field {

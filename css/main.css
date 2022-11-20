@@ -411,6 +411,7 @@
 .chekbox__link {
   -webkit-text-decoration-line: underline;
           text-decoration-line: underline;
+  text-underline-position: under;
   color: var(--accent-color);
 }
 .chekbox__field {
