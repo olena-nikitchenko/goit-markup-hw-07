@@ -477,8 +477,6 @@
   align-items: center;
 }
 .features__icon {
-  width: 70px;
-  height: 70px;
   display: block;
 }
 
@@ -755,9 +753,6 @@
   margin-left: auto;
 }
 
-.form__text--footer {
-  color: form__text--footer;
-}
 .form__field--footer {
   margin: 0;
   padding: 0;
